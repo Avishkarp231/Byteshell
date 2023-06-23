@@ -3,7 +3,7 @@ Byteshell is a C++-based command shell that is compact and flexible. This is a s
 
 ## Commands.
 
-- Display current directorie: `pwd`
+- Display current directory: `pwd`
 - Change directory: `cd <dir>`
 - list directories: `ls`
 - Display help for commands: `help`
